@@ -36,7 +36,7 @@ A disponibilização do código não equivale a uma auditoria ou certificação 
 
 Desenvolvido por **Bruno Ferreira** em 2026. Ferramenta de apoio, independente da entidade responsável pela plataforma CUCo.
 
-##   DECLARAÇÃO DE DIREITOS RESERVADOS E CONSULTA PÚBLICA
+## Licença
 
 Copyright © 2026 Bruno Ferreira e Agrupamento de Escolas de Penafiel Sudeste (AEPS).
 Todos os direitos reservados, sem prejuízo da titularidade efetiva dos direitos de cada parte.
