@@ -34,7 +34,7 @@ A disponibilização do código não equivale a uma auditoria ou certificação 
 
 ## Autoria e âmbito
 
-Desenvolvido por **Bruno Ferreira**, no âmbito do AEPS, em 2026. Ferramenta de apoio, independente da entidade responsável pela plataforma CUCo.
+Desenvolvido por **Bruno Ferreira** em 2026. Ferramenta de apoio, independente da entidade responsável pela plataforma CUCo.
 
 ## Licença
 
