@@ -1,6 +1,6 @@
 # AEPS – Desbloqueio CUCo
 
-Aplicação Android desenvolvida no âmbito do **Agrupamento de Escolas de Penafiel Sudeste (AEPS)** para facilitar o desbloqueio CUCo dos equipamentos informáticos.
+Aplicação Android desenvolvida pela Equipa de Apoio Digital do **Agrupamento de Escolas de Penafiel Sudeste (AEPS)** para facilitar o desbloqueio CUCo dos equipamentos informáticos.
 
 ## Funcionalidades
 
