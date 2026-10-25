@@ -12,4 +12,4 @@ A leitura do código de barras pode exigir acesso à câmara. A instalação do 
 
 O código-fonte está disponível para consulta. Estas observações baseiam-se na inspeção do projeto e não substituem uma auditoria independente ao APK ou ao comportamento da aplicação em execução.
 
-Para esclarecimentos, utilize os canais institucionais do Agrupamento de Escolas de Penafiel Sudeste.
+ 
