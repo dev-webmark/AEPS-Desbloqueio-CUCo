@@ -36,6 +36,17 @@ A disponibilização do código não equivale a uma auditoria ou certificação 
 
 Desenvolvido por **Bruno Ferreira** em 2026. Ferramenta de apoio, independente da entidade responsável pela plataforma CUCo.
 
-## Licença
+##   DECLARAÇÃO DE DIREITOS RESERVADOS E CONSULTA PÚBLICA
 
-Ainda não foi definida uma licença de reutilização e redistribuição. O código está disponível para consulta; não se presume autorização para reutilização ou distribuição por terceiros.
+Copyright © 2026 Bruno Ferreira e Agrupamento de Escolas de Penafiel Sudeste (AEPS).
+Todos os direitos reservados, sem prejuízo da titularidade efetiva dos direitos de cada parte.
+
+O código-fonte deste projeto é disponibilizado publicamente para consulta, transparência e verificação do funcionamento da aplicação.
+
+Esta disponibilização não concede, por si só, autorização para copiar, modificar, adaptar, redistribuir, sublicenciar ou explorar comercialmente o código, a aplicação ou obras derivadas. Qualquer utilização dependente de autorização deverá ser previamente acordada com os titulares dos direitos aplicáveis.
+
+Mantêm-se os direitos e exceções previstos na legislação aplicável.
+
+Esta declaração abrange apenas os elementos sobre os quais os titulares identificados detenham efetivamente direitos. Não altera licenças ou direitos de terceiros relativos a componentes, bibliotecas, ferramentas ou serviços utilizados, incluindo o MIT App Inventor e a plataforma CUCo.
+
+A identificação conjunta dos titulares deve ser confirmada pelas partes antes da publicação definitiva.
